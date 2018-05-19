@@ -3,7 +3,7 @@
 	"version": "2.0.1",
 	"description": "The Im neko CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "Im-neko/im-neko",
 	"author": {
 		"name": "Im-neko",
 		"email": "im.nuko@gmail.com",

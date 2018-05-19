@@ -1,13 +1,13 @@
 {
-	"name": "sindresorhus",
+	"name": "im-neko",
 	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"description": "The Im neko CLI",
 	"license": "MIT",
 	"repository": "sindresorhus/sindresorhus",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Im-neko",
+		"email": "im.nuko@gmail.com",
+		"url": "site.im-neko.net"
 	},
 	"bin": {
 		"sindresorhus": "source/cli.js"
@@ -24,7 +24,7 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
+		"im-neko",
 		"unicorns"
 	],
 	"dependencies": {
